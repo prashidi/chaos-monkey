@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/prashidi/chaos-monkey#readme",
   "dependencies": {
-    "loadash": "^1.0.0"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "aws-sdk": "^2.562.0"
